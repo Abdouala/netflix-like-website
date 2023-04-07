@@ -1,0 +1,16 @@
+button{
+    background-color: #E50914;
+    color: beige;
+    &:hover {
+        background-color: white;
+        color: #E50914;
+        border: 1px solid #E50914;
+    }
+}
+
+img{
+    width: 100%;
+}
+h5{
+    color: #fff;
+}
